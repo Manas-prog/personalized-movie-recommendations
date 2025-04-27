@@ -7,11 +7,11 @@ This system provides personalized movie suggestions based on user preferences, b
 🛠️ Features
 Collaborative Filtering (user-based and item-based)
 
-Content-Based Filtering (based on genres, cast, plot)
+Content-Based Filtering (based on genres)
 
 Hybrid Recommendation System
 
-Interactive UI for user ratings and feedback
+Interactive UI for user ratings
 
 Scalable data pipeline for large movie datasets
 
@@ -28,4 +28,4 @@ SQL / SQLite (for movie database)
 
 Machine Learning (Collaborative Filtering, Content-based Filtering)
 
-GitHub Pages / Netlify (for deployment if frontend hosted)
+GitHub Pages 
